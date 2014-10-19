@@ -1,0 +1,8 @@
+# python related
+*.pyc
+
+# Mac OS X Related
+.DS_Store
+
+# Database Related
+*.db
